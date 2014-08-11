@@ -1,0 +1,58 @@
+body {
+	background:black;
+	font-family: sans-serif;
+	font-size: 20px;
+	color:red;
+}
+
+
+	
+
+img{
+
+    max-width: 100%;
+    height: auto;
+}
+.Title {
+	border: 1px solid white;
+	text-align: center;
+	background: gray;
+	margin-right: 300px;
+	margin-left: 300px;
+}
+h1,h2,p{
+	text-align: center;
+	height:auto;
+	width:auto;
+
+}
+.side{
+	margin-right: 300px;
+}
+.push{
+	float:right;
+	padding-top: 130px;
+}
+
+
+
+
+a:hover{
+	text-decoration: underline;
+	color:blue;
+
+}
+a{
+	color:gray;
+	text-decoration: none;
+}
+.flag{
+	text-align: center;
+	height:auto;
+}
+.aside{
+	float:left;
+
+}
+
+
